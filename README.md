@@ -1,3 +1,3 @@
 # Python
 
-Üniversite Zamanında Yaptığım Calismalar, Bazı Calışmalar Öğrenmek İçin Yapılmıştır ( Basit Çalışmalardır )
+Python Dilinde Yaptığım Çalışmalardır, Aralarında Nesne Tabanlı Programlama ( OOP ) Çalışmalarımda Vardır
