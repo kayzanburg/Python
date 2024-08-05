@@ -1,0 +1,1 @@
+Bu bir örnek metindir. Bu metin, replace komutu ile değiştirilecektir.
